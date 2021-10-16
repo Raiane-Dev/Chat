@@ -1,0 +1,34 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Poppins","Quicksand", sans-serif;
+}
+body{
+	max-width:100vw;
+	margin:0 auto;
+    background-color: var(--branco-gelo);
+}
+:root{
+    --verde-marinho:#5CE27F;
+    --azul-marinho:#5CABE2;
+    --Amarelo:#FFE12D;
+    --rosa:#E25C5C;
+    --preto:#121212;
+    --preto-claro:#313131;
+    --cinza:#B1B1B1;
+    --branco-gelo:#EFEFEF;
+    --branco:#ffffff;
+}
+.box-content{
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+}
+.box-content .box-interna{
+    width:50%;
+    border:1px solid var(--cinza);
+    background-color: var(--branco);
+}

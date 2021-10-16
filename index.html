@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<head>
+	<title>Chat</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+	<script src="functions.js"></script>
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap" rel="stylesheet">
+	<link href="style.css" rel="stylesheet" />
+</head>
+<body>
+<div class="box-content">
+<div class="box-interna">
+    <h2><i data-feather="message-circle"></i> Chat Online</h2>
+
+    <div class="chat">
+        <div class="chat-interno">
+
+            <div class="chat-pessoas">
+                <div class="usuario">
+                    <img src="" />
+                    <label></label>
+                </div><!--usuario-->
+            </div><!--chat-pessoas-->
+
+    <div class="chat-mensagens">
+        <div class="chat-mensagens-boxes">
+
+            <div class="chat-mensagem-single">
+                <div class="perfil-usuario">
+                   <img src="">
+                </div><!--perfil-usuario-->
+            <div id="messages">
+                <h6></h6>
+                <p></p>
+            </div><!--mensagem-usuario-->
+            </div><!--chat-mensagem-single-->
+
+        </div><!--chat-mensagens-boxes-->
+    </div><!--chat-mensagens-->
+
+    <div class="escrever-mensagem">
+        <form method="post">
+            <textarea id="message"></textarea>
+            <input type="submit" value="Enviar" />
+        </form>
+    </div><!--escrever-mensagem-->
+
+    </div><!--chat-interno-->
+    </div><!--chat-->
+
+</div><!--box-content-->
+</div><!--box-interna-->
+</body>
+</html>
