@@ -5,7 +5,7 @@ Na parte do Ajax utilizamos Javascript e jQuery para mandar os dados com o méto
 <ul>
 <li>
   <strong>Languages: </strong><br />
-  <i>PHP e SQL.</i>
+  <i>PHP, JavaScript e SQL.</i>
  </li>
 
 <li>
@@ -15,7 +15,7 @@ Na parte do Ajax utilizamos Javascript e jQuery para mandar os dados com o méto
 
 <li>
   <strong>Library: <br /></strong>
-  <i>jQuery e PHPMailer.</i>
+  <i>jQuery.</i>
 </ul>
 
 <h5>Agradeço a quem ficou até aqui, até logo.</h5>
