@@ -2,10 +2,12 @@
 <p>Compartilhamento de mensagens AJAX, com criptografia para garantir a privacidade de cada usuário.
 Na parte do Ajax utilizamos Javascript e jQuery para mandar os dados com o método post para o nosso PHP salvar na nossa database como md5 para criptografia.</p>
 
+
+
 <ul>
 <li>
-  <strong>Languages: </strong><br />
-  <i>PHP, JavaScript e SQL.</i>
+  <strong>Languages: <br /></strong>
+  <i>PHP e SQL.</i>
  </li>
 
 <li>
@@ -15,7 +17,18 @@ Na parte do Ajax utilizamos Javascript e jQuery para mandar os dados com o méto
 
 <li>
   <strong>Library: <br /></strong>
-  <i>jQuery.</i>
+  <i>jQuery e PHPMailer.</i>
+</li>
+
+<li>
+  <strong>Style: <br /></strong>
+  <i>Cascading Style Sheets.</i>
+</li>
+
+<li>
+  <strong>Markup Language: <br /></strong>
+  <i>HTML.</i>
+</li>
 </ul>
 
 <h5>Agradeço a quem ficou até aqui, até logo.</h5>
